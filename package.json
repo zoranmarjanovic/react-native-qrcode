@@ -9,6 +9,7 @@
   },
   "keywords": [
     "react-native",
+    "react-native-webview",
     "qrcode"
   ],
   "author": "sivision.chen <cssivision@gmail.com>",
